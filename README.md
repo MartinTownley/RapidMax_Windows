@@ -1,4 +1,4 @@
-# RapidMax
+# RapidMax_Windows
 
 This is the RapidLib C++ machine learning library wrapped into a Max/MSP object, for use with Windows.
 (http://gitlab.doc.gold.ac.uk/rapid-mix/RapidLib)
@@ -18,7 +18,7 @@ Ensure you have pulled the submodule RapidLib.
 
 If met with the compilation error C2039 referring to the [searchWindow.cpp] file: include the algorithm header to this file, clean the solution, and rebuild. 
  
-## Using in a Max/MSP Project
+## Using RapidMax in a Max/MSP Project
 
 ### Allow the rapidmax helpfile to be accessed from within a Max project:
 
