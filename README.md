@@ -16,7 +16,7 @@ Ensure you have pulled the submodule RapidLib.
 
 ## De-bugging
 
-If met with the compilation error C2039 referring to the [searchWindow.cpp] file, include the <algorithm> header to this file, clean the solution, and rebuild. 
+If met with the compilation error C2039 referring to the [searchWindow.cpp] file: include the algorithm header to this file, clean the solution, and rebuild. 
  
 ## Using in a Max/MSP Project
 
