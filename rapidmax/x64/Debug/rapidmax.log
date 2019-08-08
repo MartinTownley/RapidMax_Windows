@@ -1,0 +1,360 @@
+﻿  BayesianFilter.cpp
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.h(55,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.h(56,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.h(59,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.h(60,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.h(77,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.h(78,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.h(93,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.h(94,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.cpp(22,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.cpp(23,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.cpp(48,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.cpp(49,9): warning C4068:  unknown pragma
+  filter_utilities.cpp
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.cpp(124,34): warning C4244:  '=': conversion from '_Ty' to '_Ty', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.cpp(124,34): warning C4244:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.cpp(124,34): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.cpp(124,34): warning C4244:             _Ty=double
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.cpp(124,34): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.cpp(124,34): warning C4244:         and
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.cpp(124,34): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.cpp(124,34): warning C4244:             _Ty=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.cpp(124,34): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\filter_utilities.h(56,1): warning C4267:  '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\filter_utilities.cpp(37): message :  see reference to function template instantiation 'void even_ext<double>(const std::vector<double,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,unsigned int)' being compiled
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\filter_utilities.cpp(37): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\filter_utilities.cpp(37): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\filter_utilities.cpp(37): message :             _Ty=double
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\filter_utilities.cpp(37): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\filter_utilities.h(79,1): warning C4267:  '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\filter_utilities.cpp(40): message :  see reference to function template instantiation 'void odd_ext<double>(const std::vector<double,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,unsigned int)' being compiled
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\filter_utilities.cpp(40): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\filter_utilities.cpp(40): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\filter_utilities.cpp(40): message :             _Ty=double
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\filter_utilities.cpp(40): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\filter_utilities.h(102,1): warning C4267:  '+=': conversion from 'size_t' to 'int', possible loss of data
+  jsoncpp.cpp
+  libsvm.cpp
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\filter_utilities.cpp(43): message :  see reference to function template instantiation 'void const_ext<double>(const std::vector<double,std::allocator<_Ty>> &,std::vector<_Ty,std::allocator<_Ty>> &,unsigned int)' being compiled
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\filter_utilities.cpp(43): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\filter_utilities.cpp(43): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\filter_utilities.cpp(43): message :             _Ty=double
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\filter_utilities.cpp(43): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(55,5): error C4996:  'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1469): message :  see declaration of 'vsprintf'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2651,5): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2786,5): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2790,5): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2808,5): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2825,5): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2827,5): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2829,5): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2831,5): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2833,5): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2839,5): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2846,5): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2853,5): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2860,5): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2867,5): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2891,5): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2934,5): error C4996:  'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(440): message :  see declaration of 'strtok'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2937,5): error C4996:  'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(440): message :  see declaration of 'strtok'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2963,5): error C4996:  'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(440): message :  see declaration of 'strtok'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2967,5): error C4996:  'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(440): message :  see declaration of 'strtok'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2973,5): error C4996:  'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(440): message :  see declaration of 'strtok'
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\libsvm\libsvm.cpp(2974,5): error C4996:  'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  classification.cpp
+  dtw.cpp
+  fastDTW.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(440): message :  see declaration of 'strtok'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\fastDTW.cpp(47,16): warning C4244:  'return': conversion from 'double' to 'T', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\fastDTW.cpp(47,16): warning C4244:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\fastDTW.cpp(47,16): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\fastDTW.cpp(47,16): warning C4244:             T=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\fastDTW.cpp(47,16): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\fastDTW.cpp(45): message :  while compiling class template member function 'T fastDTW<T>::getCost(const std::vector<std::vector<T,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,const std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,int)'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\fastDTW.cpp(45): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\fastDTW.cpp(45): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\fastDTW.cpp(45): message :             T=float,
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\fastDTW.cpp(45): message :             _Ty=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\fastDTW.cpp(45): message :         ]
+  knnClassification.cpp
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\fastDTW.cpp(75): message :  see reference to class template instantiation 'fastDTW<float>' being compiled
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(143,27): warning C4244:  '=': conversion from '_Ty1' to 'T', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(143,27): warning C4244:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(143,27): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(143,27): warning C4244:             _Ty1=int
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(143,27): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(143,27): warning C4244:         and
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(143,27): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(143,27): warning C4244:             T=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(143,27): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(85): message :  while compiling class template member function 'T knnClassification<T>::run(const std::vector<T,std::allocator<_Ty>> &)'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(85): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(85): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(85): message :             T=float,
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(85): message :             _Ty=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(85): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(169): message :  see reference to class template instantiation 'knnClassification<float>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\utility(123,1): warning C4244:  'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\utility(123,1): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\utility(123,1): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\utility(123,1): warning C4244:             _Ty=double
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\utility(123,1): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\utility(123,1): warning C4244:         and
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\utility(123,1): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\utility(123,1): warning C4244:             _Ty2=float
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\utility(123,1): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(87): message :  see reference to function template instantiation 'std::pair<int,T>::pair<int,double,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(87): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(87): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(87): message :             T=float,
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(87): message :             _Other1=int,
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(87): message :             _Other2=double
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(87): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(87): message :  see reference to function template instantiation 'std::pair<int,T>::pair<int,double,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(87): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(87): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(87): message :             T=float,
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(87): message :             _Other1=int,
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(87): message :             _Other2=double
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(87): message :         ]
+  modelSet.cpp
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(85): message :  while compiling class template member function 'T knnClassification<T>::run(const std::vector<T,std::allocator<_Ty>> &)'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(85): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(85): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(85): message :             T=float,
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(85): message :             _Ty=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\knnClassification.cpp(85): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(191,73): warning C4244:  'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(191,73): warning C4244:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(191,73): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(191,73): warning C4244:             _Ty=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(191,73): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(161): message :  while compiling class template member function 'void modelSet<float>::json2modelSet(const Json::Value &)'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(155): message :  see reference to function template instantiation 'void modelSet<float>::json2modelSet(const Json::Value &)' being compiled
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(244): message :  see reference to class template instantiation 'modelSet<float>' being compiled
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(193,71): warning C4244:  'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(193,71): warning C4244:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(193,71): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(193,71): warning C4244:             _Ty=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(193,71): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(199,71): warning C4244:  'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(199,71): warning C4244:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(199,71): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(199,71): warning C4244:             _Ty=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(199,71): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(204,71): warning C4244:  'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(204,71): warning C4244:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(204,71): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(204,71): warning C4244:             _Ty=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(204,71): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(206,65): warning C4244:  'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(206,65): warning C4244:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(206,65): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(206,65): warning C4244:             _Ty=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(206,65): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(212,24): warning C4244:  'initializing': conversion from 'double' to 'T', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(212,24): warning C4244:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(212,24): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(212,24): warning C4244:             T=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(212,24): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(213,23): warning C4244:  'initializing': conversion from 'double' to 'T', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(213,23): warning C4244:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(213,23): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(213,23): warning C4244:             T=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(213,23): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(222,75): warning C4244:  'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(222,75): warning C4244:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(222,75): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(222,75): warning C4244:             _Ty=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(222,75): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(100,47): warning C4244:  'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(100,47): warning C4244:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(100,47): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(100,47): warning C4244:             _Ty=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(100,47): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(210): message :  see reference to function template instantiation 'std::vector<T,std::allocator<_Ty>> json2vector<T>(Json::Value)' being compiled
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(210): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(210): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(210): message :             T=float,
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(210): message :             _Ty=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(210): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(161): message :  while compiling class template member function 'void modelSet<float>::json2modelSet(const Json::Value &)'
+  neuralNetwork.cpp
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\modelSet.cpp(155): message :  see reference to function template instantiation 'void modelSet<float>::json2modelSet(const Json::Value &)' being compiled
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(115,1): warning C4305:  'initializing': truncation from 'double' to 'T'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(115,1): warning C4305:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(115,1): warning C4305:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(115,1): warning C4305:             T=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(115,1): warning C4305:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(106): message :  while compiling class template member function 'neuralNetwork<float>::neuralNetwork(const int &,const std::vector<int,std::allocator<_Ty>> &,const int &,const int &)'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(106): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(106): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(106): message :             _Ty=int
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(106): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(461): message :  see reference to class template instantiation 'neuralNetwork<float>' being compiled
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(55,1): warning C4305:  'initializing': truncation from 'double' to 'T'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(55,1): warning C4305:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(55,1): warning C4305:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(55,1): warning C4305:             T=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(55,1): warning C4305:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(41): message :  while compiling class template member function 'neuralNetwork<float>::neuralNetwork(const int &,const std::vector<int,std::allocator<_Ty>> &,const int &,const int &,const std::vector<T,std::allocator<float>> &,const std::vector<T,std::allocator<float>> &,const std::vector<T,std::allocator<float>> &,const std::vector<T,std::allocator<float>> &,const T &,const T &)'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(41): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(41): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(41): message :             _Ty=int,
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(41): message :             T=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(41): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(385,50): warning C4244:  'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(385,50): warning C4244:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(385,50): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(385,50): warning C4244:             _Ty=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(385,50): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(359): message :  while compiling class template member function 'void neuralNetwork<float>::train(const std::vector<trainingExampleTemplate<float>,std::allocator<_Ty>> &)'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(359): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(359): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(359): message :             _Ty=trainingExampleTemplate<float>
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(359): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(386,49): warning C4244:  'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(386,49): warning C4244:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(386,49): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(386,49): warning C4244:             _Ty=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(386,49): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(393,34): warning C4244:  '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(393,34): warning C4244:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(393,34): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(393,34): warning C4244:             T=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(393,34): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(394,33): warning C4244:  '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(394,33): warning C4244:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(394,33): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(394,33): warning C4244:             T=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(394,33): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(417,22): warning C4244:  '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(417,22): warning C4244:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(417,22): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(417,22): warning C4244:             T=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(417,22): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(409): message :  while compiling class template member function 'void neuralNetwork<float>::backpropagate(const T &)'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(409): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(409): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(409): message :             T=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(409): message :         ]
+  rapidStream.cpp
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(402): message :  see reference to function template instantiation 'void neuralNetwork<float>::backpropagate(const T &)' being compiled
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(402): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(402): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(402): message :             T=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\neuralNetwork.cpp(402): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.h(55,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.h(56,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.h(59,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.h(60,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.h(77,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.h(78,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.h(93,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\dependencies\bayesfilter\src\BayesianFilter.h(94,9): warning C4068:  unknown pragma
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(22,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(18): message :  while compiling class template member function 'rapidStream<double>::rapidStream(int)'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(243): message :  see reference to class template instantiation 'rapidStream<double>' being compiled
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(39,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(35): message :  while compiling class template member function 'rapidStream<double>::rapidStream(void)'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(53,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(50): message :  while compiling class template member function 'void rapidStream<double>::clear(void)'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(82,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(80): message :  while compiling class template member function 'T rapidStream<T>::minimum(void) const'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(80): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(80): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(80): message :             T=double
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(80): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(93,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(91): message :  while compiling class template member function 'T rapidStream<T>::maximum(void) const'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(91): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(91): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(91): message :             T=double
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(91): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(112,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(102): message :  while compiling class template member function 'uint32_t rapidStream<double>::numZeroCrossings(void) const'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(131,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(129): message :  while compiling class template member function 'T rapidStream<T>::sum(void) const'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(129): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(129): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(129): message :             T=double
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(129): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(146,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(143): message :  while compiling class template member function 'T rapidStream<T>::standardDeviation(void) const'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(143): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(143): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(143): message :             T=double
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(143): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(155,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(153): message :  while compiling class template member function 'T rapidStream<T>::rms(void) const'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(153): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(153): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(153): message :             T=double
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(153): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(191,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(189): message :  while compiling class template member function 'T rapidStream<T>::minVelocity(void) const'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(189): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(189): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(189): message :             T=double
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(189): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(203,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(201): message :  while compiling class template member function 'T rapidStream<T>::maxVelocity(void) const'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(201): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(201): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(201): message :             T=double
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(201): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(216,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(213): message :  while compiling class template member function 'T rapidStream<T>::minAcceleration(void) const'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(213): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(213): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(213): message :             T=double
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(213): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(231,23): warning C4018:  '<': signed/unsigned mismatch
+  regression.cpp
+  searchWindow.cpp
+  seriesClassification.cpp
+  svmClassification.cpp
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(228): message :  while compiling class template member function 'T rapidStream<T>::maxAcceleration(void) const'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(228): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(228): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(228): message :             T=double
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\rapidStream.cpp(228): message :         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\svmClassification.cpp(243,16): warning C4244:  'return': conversion from 'double' to 'T', possible loss of data
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\svmClassification.cpp(243,16): warning C4244:         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\svmClassification.cpp(243,16): warning C4244:         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\svmClassification.cpp(243,16): warning C4244:             T=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\svmClassification.cpp(243,16): warning C4244:         ]
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\svmClassification.cpp(227): message :  while compiling class template member function 'T svmClassification<T>::run(const std::vector<T,std::allocator<_Ty>> &)'
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\svmClassification.cpp(227): message :         with
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\svmClassification.cpp(227): message :         [
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\svmClassification.cpp(227): message :             T=float,
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\svmClassification.cpp(227): message :             _Ty=float
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\svmClassification.cpp(227): message :         ]
+  warpPath.cpp
+  rapidmax.cpp
+C:\Users\Rebecca\RapidMax\include\RapidLib\src\svmClassification.cpp(269): message :  see reference to class template instantiation 'svmClassification<float>' being compiled
+  Generating Code...
+C:\Users\Rebecca\RapidMax\source\rapidmax.cpp(6,10): error C1083:  Cannot open include file: 'ext.h': No such file or directory
