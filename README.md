@@ -22,8 +22,8 @@ If met with the compilation error C2039 referring to the [searchWindow.cpp] file
 
 ### Allow the rapidmax helpfile to be accessed from within a Max project:
 
-..* Inside your packages folder (/Users/MyDocuments/Max8/Packages), designate a new folder for your new rapidmax object, and name it something like 'rapidmax'
-..* Create a subfolder 'externals' and place the rapidmax x64 file inside here
-..* Also place the folder named 'help' from this repo alongside the 'externals' folder
+* Inside your packages folder (/Users/MyDocuments/Max8/Packages), designate a new folder for your new rapidmax object, and name it something like 'rapidmax'
+* Create a subfolder 'externals' and place the rapidmax x64 file inside here
+* Also place the folder named 'help' from this repo alongside the 'externals' folder
 
 Now alt-clicking on the rapidmax object (in Max) should present you with the help file.
